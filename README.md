@@ -1,4 +1,4 @@
 # Trial-Demo-
 This is my first Git Repository. 
 <br>
-Author- Rajat Khandelwal
+Author- Rajat Khandelwal (Data Analyst)
